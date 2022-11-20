@@ -21,3 +21,11 @@ For more in detailed information about the Bernstein-Vazirani algorithm, feel fr
 
 In this repository, there is an example for the Bernstein Vazirani algorithm to find the hidden bit string "111".
  </p>
+ 
+ <h1> Installing Qiskit </h1>
+ 
+ <p>
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1kRfHNUbkrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</p>
