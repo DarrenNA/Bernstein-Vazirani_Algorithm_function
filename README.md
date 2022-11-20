@@ -19,5 +19,5 @@ To find the hidden string, we would need to call the function  𝑓  for  𝑛  
   <br>
 For more in detailed information about the Bernstein-Vazirani algorithm, feel free to check out this helpful chapter in the Qiskit textbook: https://learn.qiskit.org/course/ch-algorithms/bernstein-vazirani-algorithm.
 
-In the below, there is an example for the Bernstein Vazirani algorithm to find the hidden bit string "111".
+In this repository, there is an example for the Bernstein Vazirani algorithm to find the hidden bit string "111".
  </p>
